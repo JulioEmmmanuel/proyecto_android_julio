@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_size">80sp</dimen>
+    <dimen name="button_text_size">30sp</dimen>
+    <dimen name="button_padding_sides">40sp</dimen>
+    <dimen name="button_padding_up_down">20sp</dimen>
+    <dimen name="button_border">2dp</dimen>
+    <dimen name="button_radius">3dp</dimen>
+
+</resources>
